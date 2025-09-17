@@ -14,7 +14,7 @@ This project builds a machine learning model to predict credit risk based on bor
 - Jupyter Notebook
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
 > git clone https://github.com/acexedo/credit-risk-predictor.git
 
 Navigate into the folder:
